@@ -22,3 +22,6 @@ A simulink Model for auto pilot navigation
 
 # Final Stabalized Output
 ![Screenshot 2024-11-21 011743](https://github.com/user-attachments/assets/abf1d99f-900c-49a6-846d-b18e20885146)
+
+
+Reference: https://ctms.engin.umich.edu/CTMS/index.php?example=AircraftPitch&section=SimulinkModeling
