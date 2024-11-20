@@ -7,7 +7,7 @@ A simulink Model for auto pilot navigation
 ![Screenshot 2024-11-21 004344](https://github.com/user-attachments/assets/d3e7767a-5a0b-457d-8658-2a192450ba84)
 
 
-# Closed Loop System
+# Control Loop Feedback System
 ![Screenshot 2024-11-21 011755](https://github.com/user-attachments/assets/47055870-d71d-4177-bc5c-4ec92caf8475)
 
 ## Aim: To Fine Tune the PID controller to minimize the response time to less than 1 sec.
