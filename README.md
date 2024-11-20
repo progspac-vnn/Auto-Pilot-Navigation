@@ -17,8 +17,8 @@ A simulink Model for auto pilot navigation
 ![Screenshot 2024-11-21 010930](https://github.com/user-attachments/assets/ea8003bc-8870-4dbd-88be-f98d16f9fc87)
 
 ### After Fine Tuning
-![Screenshot 2024-11-21 011000](https://github.com/user-attachments/assets/fbb5d32d-65fa-4fad-a125-40e257ad6b89)
 ![Screenshot 2024-11-21 011020](https://github.com/user-attachments/assets/698776ae-83be-465c-9abc-274f073e2198)
+![Screenshot 2024-11-21 011000](https://github.com/user-attachments/assets/fbb5d32d-65fa-4fad-a125-40e257ad6b89)
 
 # Final Stabalized Output
 ![Screenshot 2024-11-21 011743](https://github.com/user-attachments/assets/abf1d99f-900c-49a6-846d-b18e20885146)
